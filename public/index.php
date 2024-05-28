@@ -32,7 +32,7 @@
                 <h1 class="nav__logo-name">Rekap</h1>
             </a>
             <div class="nav__list">
-                <a href="dashboard.php" class="nav__link active-link">
+                <a href="index.php" class="nav__link active-link">
                     <i class='bx bx-grid-alt'></i>
                     <span class="nav__name">Dashboard</span>
                 </a>

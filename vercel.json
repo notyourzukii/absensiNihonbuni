@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [{
+        "src": ".",
+        "use": "@vercel/php",
+        "config": {
+            "php": {
+                "version": "8.0"
+            }
+        }
+    }]
+}

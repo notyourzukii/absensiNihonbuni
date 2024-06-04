@@ -74,8 +74,8 @@
                         <td><?php echo htmlspecialchars($result['kelas']); ?></td>
                         <td><?php echo htmlspecialchars($result['kelas_peminatan']); ?></td>
                         <td>
-                            <a href="">Edit</a>
-                            <a href="">Hapus</a>    
+                            <a href="daftar-member/edit.php">Edit</a>
+                            <a href="daftar-member/delete.php?id=<?php echo $result['id']; ?>">Hapus</a>  
                         </td>
                     </tr>
                 <?php  endforeach; ?>

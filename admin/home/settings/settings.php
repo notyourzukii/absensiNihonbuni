@@ -57,7 +57,7 @@
                     </div>
                     <div class="toggle">
                         <label class="switch">
-                            <input type="checkbox" id="checkbox">
+                            <input type="checkbox" id="formAbsen">
                             <span class="slider"></span>
                         </label>
                     </div>
@@ -69,7 +69,7 @@
                     </div>
                     <div class="toggle">
                         <label class="switch">
-                            <input type="checkbox" >
+                            <input type="checkbox" id="formIzin">
                             <span class="slider"></span>
                         </label>
                     </div>

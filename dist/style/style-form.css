@@ -9,9 +9,6 @@
 body {
     background-color: rgb(249, 142, 142);
 }
-select option{
-    font-size: 28px;
-}
 .container {
     display: flex;
     flex-direction: column;
@@ -110,7 +107,14 @@ button[type="submit"] {
     font-weight: 700;
     font-size: 18px;
 }
-
+.input-form textarea{
+    width: 93%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px 10px 0px 10px;
+    outline: none ;
+}
 button[type="submit"]:hover {
     background-color: #45a049;
 }
